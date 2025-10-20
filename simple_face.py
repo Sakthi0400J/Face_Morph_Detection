@@ -9,9 +9,10 @@ def get_face_embedding(image_path):
         print(f"Error: {e}")
         return None
 
-# Usage
+
 embedding = get_face_embedding(r"C:\pradeep\IMG_7833.JPG")
 if embedding is not None:
     print(f"Embedding shape: {embedding.shape}") 
     print(embedding)
+
     
