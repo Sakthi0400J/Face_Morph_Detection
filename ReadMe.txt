@@ -18,3 +18,7 @@ Unlike standard deepfake detectors that only provide a binary (Real/Fake) classi
    ```bash
    git clone [https://github.com/](https://github.com/)Sakthi0400J/Face_Morph_Detection.git
    cd [Repo-Name]
+
+
+###Note:
+1. The CNN model is too large for uploading so i gave the other files and license for the model in the DeepFake-Detector folder
