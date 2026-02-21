@@ -1,0 +1,8 @@
+
+tensorflow>=2.10.0
+keras
+deepface
+faiss-cpu
+numpy
+opencv-python
+pickle5
