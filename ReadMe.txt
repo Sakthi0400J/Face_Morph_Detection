@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18729715.svg)](https://doi.org/10.5281/zenodo.18729715)
 # Identity-Aware Deepfake Forensic Framework
 
 This repository contains the official implementation of the **Identity-Aware Deepfake Forensic Framework** using 512-dimensional (FaceNet512) biometric embeddings and CNN-based verification.
